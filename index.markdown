@@ -2,7 +2,7 @@
 layout: default
 title: oiiioiio
 ---
-![logo_SPMS2016.png](/logosSPMS/logo_SPMS2016.png "")
+![logo_SPMS2016.png](/logos%20SPMS/logo_SPMS2016.png "")
 
 #[SICC] – *Manual Macro Tarefas*
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
