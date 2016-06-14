@@ -8,11 +8,11 @@ translation_priority: 1
 order: 3
 ---
 
-![logosSPMS/logoSPMS2016.png] (logosSPMS/logoSPMS2016.png)
+
 
 # [SICC] – *Manual Macro Tarefas*
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
-
+![logosSPMS/logoSPMS2016.png] (logosSPMS/logoSPMS2016.png)
 
 > Este trabalho não pode ser reproduzido ou divulgado, na íntegra ou em parte, a terceiros nem utilizado para outros fins que não aqueles para que foi fornecido sem a autorização escrita prévia ou, se alguma parte do mesmo for fornecida por virtude de um contrato com terceiros, segundo autorização expressa de acordo com esse contrato. Todos os outros direitos e marcas são reconhecidos.
 
