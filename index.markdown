@@ -1,5 +1,5 @@
 ---
-layout: shared/narrow-pages-list
+layout: default
 title: "Your first offline web app"
 description: "Service workers are background scripts that open the door to rich offline functionality that would normally require a native application. Learn how to integrate a service worker into an existing application to make it work offline."
 published_on: 2015-09-30
