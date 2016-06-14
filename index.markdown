@@ -31,14 +31,14 @@ We have the following structure:
 
 Only index file and layouts folder are required, the other files and folders are optional.
 
-##2.1. Main File #MainFile
+##2.1. Main File
 
 The index.markdown is the first page of your webpage, insert there what you want for first file. 
 **Don't forget:** Between the titles and the *markdown* you have to left a space.
 
 ##2.2. The layout folder
 
-The layout folder is the folder where you put the frame in html. In this case, we have a file: * default.html* that is called on the main file as layout (see [Main File](#MainFile)
+The layout folder is the folder where you put the frame in html. In this case, we have a file: * default.html* that is called on the main file as layout (see [Main File](##Main-File)
 
 
 
