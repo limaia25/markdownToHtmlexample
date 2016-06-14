@@ -7,6 +7,7 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
+
 ![logosSPMS/logo_SPMS2016.png] (logosSPMS/logo_SPMS2016.png)
 
 # [SICC] – *Manual Macro Tarefas*
