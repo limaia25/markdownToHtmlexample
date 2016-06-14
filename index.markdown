@@ -7,7 +7,7 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-![logo_SPMS2016.png] (/logosSPMS/logo_SPMS2016.png "")
+![logo_SPMS2016.png] (logosSPMS/logo_SPMS2016.png "")
 
 # [SICC] – *Manual Macro Tarefas*
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
