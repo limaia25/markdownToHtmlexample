@@ -1,6 +1,6 @@
 ---
 layout: default
-tittle: oiiioiio
+title: oiiioiio
 ---
 ![logo_SPMS2016.png](/logosSPMS/logo_SPMS2016.png "")
 
