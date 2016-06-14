@@ -30,7 +30,7 @@ O Manual de Procedimentos do SICC espelha um conjunto de normas, procedimentos, 
 
 A nova estrutura do Manual de Procedimentos está organizada da seguinte forma:
 
-![Macrotarefas/1.png](/Macrotarefas/1.png)
+![Macrotarefas/1.png](Macrotarefas/1.png)
 
 Esquematizando, entende-se por processo ou requisito uma atividade ou um conjunto de atividades que utilizam recursos para converter elementos de entrada em elementos de saída.
 
