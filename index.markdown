@@ -42,7 +42,7 @@ Remember that the layout is the one defined on [The layout folder](#the-layout-f
 
 ## 2.2.The layout folder
 
-The layout folder is the folder where you put the frame in html. In this case, we have a file: *default.html* that is called on the main file as layout (see [Main File](#main-File)).
+The layout folder is the folder where you put the frame in html. In this case, we have a file: *default.html* that is called on the main file as layout (see [Main File](#main-file)).
 
 ## 2.3.The css folder
 Here you have the css files, where you define your own style or the github style. This one is from [github markdown css](https://github.com/sindresorhus/github-markdown-css).
