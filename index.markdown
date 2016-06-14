@@ -7,7 +7,7 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-![images/19.jpg](images/19.jpg)
+![images/9.jpg](images/9.jpg)
 
 # [My Testing] – *prototype of Markdown on html of github pages*
 ````
