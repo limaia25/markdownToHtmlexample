@@ -15,7 +15,7 @@ order: 3
 
 > Este trabalho não pode ser reproduzido ou divulgado, na íntegra ou em parte, a terceiros nem utilizado para outros fins que não aqueles para que foi fornecido sem a autorização escrita prévia ou, se alguma parte do mesmo for fornecida por virtude de um contrato com terceiros, segundo autorização expressa de acordo com esse contrato. Todos os outros direitos e marcas são reconhecidos.
 
-##1.	Enquadramento
+## 1.	Enquadramento
 
 As atividades dos organismos públicos são objetos de controlo, nomeadamente nos aspetos relacionados com a gestão documental de procedimentos. Com a aprovação do projeto SICC para o Sector da Saúde, pretendeu-se inovar na existência de documentação de maneira a que englobe “um plano de métodos, técnicas e procedimentos” que permitam observar os procedimentos e princípios básicos, previstos no POCMS e Normativo Contabilístico. 
 
