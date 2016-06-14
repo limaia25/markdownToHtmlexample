@@ -276,4 +276,8 @@ Com as ferramentas apropriadas (Markdown e Github), a recolha e consulta de info
 
 
 
+<<<<<<< HEAD
+=======
+# What you'll need
+>>>>>>> origin/master
 
