@@ -8,7 +8,7 @@ translation_priority: 1
 order: 3
 ---
 
-![logosSPMS/logo_SPMS2016.png] (logosSPMS/logo_SPMS2016.png)
+
 
 # [SICC] – *Manual Macro Tarefas*
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
@@ -28,6 +28,8 @@ As macros tarefas foram definidas durante a realização de reunião de kick-off
 Este Manual descreve os procedimentos que as entidades hospitalares devem adotar com o sistema SICC, constituindo portanto, o documento de referência para a implementação e melhoria de desempenho desses serviços.
 
 O Manual de Procedimentos do SICC espelha um conjunto de normas, procedimentos, funções, atividades, objetivos e orientações, que devem ser cumpridos e ainda, descreve a forma como devem ser executados, quer individualmente, quer em conjunto.
+
+![logosSPMS/logo_SPMS2016.png] (logosSPMS/logo_SPMS2016.png)
 
 A nova estrutura do Manual de Procedimentos está organizada da seguinte forma:
 
