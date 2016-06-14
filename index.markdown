@@ -9,7 +9,7 @@ order: 3
 ---
 ![logo_SPMS2016.png](/logosSPMS/logo_SPMS2016.png "")
 
-#[SICC] – *Manual Macro Tarefas*
+# [SICC] – *Manual Macro Tarefas*
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
 
 
@@ -22,7 +22,7 @@ As atividades dos organismos públicos são objetos de controlo, nomeadamente no
 As macros tarefas foram definidas durante a realização de reunião de kick-off, com a presença dos intervenientes diretos do projeto SICC e selecionadas de acordo com as necessidades do projeto. Surgiu assim a sugestão de criar toda a documentação associada ao projeto com a utilização de duas ferramentas utilitárias: Markdown e Github.
 
 
-##2.	Estrutura
+## 2.	Estrutura
 
 Este Manual descreve os procedimentos que as entidades hospitalares devem adotar com o sistema SICC, constituindo portanto, o documento de referência para a implementação e melhoria de desempenho desses serviços.
 
@@ -37,7 +37,7 @@ Esquematizando, entende-se por processo ou requisito uma atividade ou um conjunt
 ![Macrotarefas/2.png](https://github.com/SPMSSICC/Markdown/blob/master/Macrotarefas/2.png) 
 
 
-##3.	Processo de Identificação das Necessidades
+## 3.	Processo de Identificação das Necessidades
 
 Alguns dos fatores que tornam complexo o processo de identificação das necessidades são: 
 
@@ -55,7 +55,7 @@ Alguns dos fatores que tornam complexo o processo de identificação das necessi
 
 ![Macrotarefas/3.png](https://github.com/SPMSSICC/Markdown/blob/582d8e23800a8e92470f5b6bd0aaa690c6a4c467/Macrotarefas/3.png)
 
-##4.	Circuito da Informação
+## 4.	Circuito da Informação
 
 Os diferentes tipos de informação necessária e as diferentes formas com que ela chega tornam a sua divulgação e processo de armazenamento distinto. A utilização da ferramenta Markdown é um dos principais meios de criação da informação e o seu armazenamento. Esta ferramenta converte assim o texto em HTML válido através de código.
 
@@ -65,7 +65,7 @@ O desempenho, prossupõe a existência de um repositório de conhecimento acumul
 
 ![Macrotarefas/5.png](https://github.com/SPMSSICC/Markdown/blob/582d8e23800a8e92470f5b6bd0aaa690c6a4c467/Macrotarefas/5.png)
 
-##5.	Revisão e Distribuição
+## 5.	Revisão e Distribuição
 
 Todos os pedidos de revisões ou novas versões de Manuais de procedimentos / Requisitos devem ser efetuadas de novas aplicações ou mesmo já existentes no SICC, podendo existir a necessidade de se proceder a uma atualização dos procedimentos constantes neste Manual.
 
@@ -77,7 +77,7 @@ Após parecer de qualquer dos elementos referenciados anteriormente para a imple
 
 ![Macrotarefas/7.png](https://github.com/SPMSSICC/Markdown/blob/582d8e23800a8e92470f5b6bd0aaa690c6a4c467/Macrotarefas/7.png)
 
-##6.	Processo de Requisito
+## 6.	Processo de Requisito
 
 O que se entende por requisito?
 
@@ -85,7 +85,7 @@ R: Um requisito não é mais que uma condição necessária para a obtenção de
 
 ![Macrotarefas/8.png](https://github.com/SPMSSICC/Markdown/blob/582d8e23800a8e92470f5b6bd0aaa690c6a4c467/Macrotarefas/8.png) 
 
-##*6.1	Perceção e domínio* 
+##* 6.1	Perceção e domínio* 
 
 Para entender, é necessário ter a perceção do assunto e bem como saber desenvolver sistemas, ou seja, é necessário compreender inicialmente para posteriormente se conseguir executar.
 
