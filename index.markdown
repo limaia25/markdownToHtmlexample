@@ -1,6 +1,6 @@
 ---
 layout: default
-title: oiiioiio
+title: Optimize for Happiness
 ---
 ![logo_SPMS2016.png](/logos%20SPMS/logo_SPMS2016.png "")
 
