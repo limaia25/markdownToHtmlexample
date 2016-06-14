@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 tittle: oiiioiio
 ---
 ![logo_SPMS2016.png](/logos%20SPMS/logo_SPMS2016.png "")
