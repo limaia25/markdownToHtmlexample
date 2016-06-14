@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5 {
   /*text-align: center;*/
 }
 
+h3{
+  color: red;
+}
+
 h2 {
   border-bottom: 1px solid #c6e09b;
   padding-bottom: 5px;
