@@ -1,36 +1,48 @@
 ---
 layout: default
-title: "Your first offline web app"
-description: "Service workers are background scripts that open the door to rich offline functionality that would normally require a native application. Learn how to integrate a service worker into an existing application to make it work offline."
+title: "Your first markdown webPage using git"
+description: "index page how to show markdown files on html."
 published_on: 2015-09-30
 updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-![logo_SPMS2016.png](/logosSPMS/logo_SPMS2016.png "")
+![images/19.jpg](images/19.jpg)
 
-#[SICC] – *Manual Macro Tarefas*
-``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
-
-
-> Este trabalho não pode ser reproduzido ou divulgado, na íntegra ou em parte, a terceiros nem utilizado para outros fins que não aqueles para que foi fornecido sem a autorização escrita prévia ou, se alguma parte do mesmo for fornecida por virtude de um contrato com terceiros, segundo autorização expressa de acordo com esse contrato. Todos os outros direitos e marcas são reconhecidos.
-
-##1.	Enquadramento
-
-As atividades dos organismos públicos são objetos de controlo, nomeadamente nos aspetos relacionados com a gestão documental de procedimentos. Com a aprovação do projeto SICC para o Sector da Saúde, pretendeu-se inovar na existência de documentação de maneira a que englobe “um plano de métodos, técnicas e procedimentos” que permitam observar os procedimentos e princípios básicos, previstos no POCMS e Normativo Contabilístico. 
-
-As macros tarefas foram definidas durante a realização de reunião de kick-off, com a presença dos intervenientes diretos do projeto SICC e selecionadas de acordo com as necessidades do projeto. Surgiu assim a sugestão de criar toda a documentação associada ao projeto com a utilização de duas ferramentas utilitárias: Markdown e Github.
+# [My Testing] – *prototype of Markdown on html of github pages*
+````
 
 
-##2.	Estrutura
+#1.	Introduction
 
-Este Manual descreve os procedimentos que as entidades hospitalares devem adotar com o sistema SICC, constituindo portanto, o documento de referência para a implementação e melhoria de desempenho desses serviços.
+This work represents a simple way to show markdown on a html pages, using gitHub pages. It complements the need of something simple that represent markdown files as html.
 
-O Manual de Procedimentos do SICC espelha um conjunto de normas, procedimentos, funções, atividades, objetivos e orientações, que devem ser cumpridos e ainda, descreve a forma como devem ser executados, quer individualmente, quer em conjunto.
+We don't teach how to write markdown, html or css. But we show some examples.
 
-A nova estrutura do Manual de Procedimentos está organizada da seguinte forma:
 
-![Macrotarefas/1.png](/Macrotarefas/1.png)
+
+#2.	Structure
+
+We have the following structure:
+
+- index.markdown
+- _layouts *[folder]*
+- css *[folder]*
+- images *[folder]*
+- someMarkDownFile.markdown
+
+Only index file and layouts folder are required, the other files and folders are optional.
+
+##2.1. Main File #MainFile
+
+The index.markdown is the first page of your webpage, insert there what you want for first file. 
+**Don't forget:** Between the titles and the *markdown* you have to left a space.
+
+##2.2. The layout folder
+
+The layout folder is the folder where you put the frame in html. In this case, we have a file: * default.html* that is called on the main file as layout (see [Main File](#MainFile)
+
+
 
 Esquematizando, entende-se por processo ou requisito uma atividade ou um conjunto de atividades que utilizam recursos para converter elementos de entrada em elementos de saída.
 
