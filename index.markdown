@@ -10,8 +10,6 @@ order: 3
 ![images/9.jpg](images/9.jpg)
 
 # [My Testing] – *prototype of Markdown on html of github pages*
-````
-
 
 #1.	Introduction
 
