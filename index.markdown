@@ -9,7 +9,7 @@ order: 3
 ---
 In this codelab, you’ll learn how to integrate a service worker into an existing application to make it work offline.
 
-<img src="images/image00.png" width="624" height="409" />
+<img src="image00.png" width="624" height="409" />
 
 The application is called [Air
 Horner](https://airhorner.com). It uses the Web Audio API to play and manipulate
