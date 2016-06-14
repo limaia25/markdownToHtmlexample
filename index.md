@@ -1,3 +1,7 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
 Markdown Here Entity Contributor License Agreement
 ==================================================
 
