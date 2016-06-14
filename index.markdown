@@ -2,7 +2,7 @@
 layout: post
 tittle: oiiioiio
 ---
-![logo_SPMS2016.png](https://github.com/SPMSSICC/Markdown/blob/master/logos%20SPMS/logo_SPMS2016.png "")
+![logo_SPMS2016.png](/logos%20SPMS/logo_SPMS2016.png "")
 
 #[SICC](C://Users//User//Desktop//SICC//LOGIN.html) – *Manual Macro Tarefas*
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
@@ -25,7 +25,7 @@ O Manual de Procedimentos do SICC espelha um conjunto de normas, procedimentos, 
 
 A nova estrutura do Manual de Procedimentos está organizada da seguinte forma:
 
-![Macrotarefas/1.png](https://github.com/SPMSSICC/Markdown/blob/master/Macrotarefas/1.png)
+![Macrotarefas/1.png](/Macrotarefas/1.png)
 
 Esquematizando, entende-se por processo ou requisito uma atividade ou um conjunto de atividades que utilizam recursos para converter elementos de entrada em elementos de saída.
 
