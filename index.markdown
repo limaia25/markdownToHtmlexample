@@ -34,7 +34,7 @@ experience is.
 * A brief overview of the service worker Lifecycle
 * A simple offline caching strategy
 
-### What you'll need
+# What you'll need
 
 * Chrome 44 or above
 * A basic understanding of
